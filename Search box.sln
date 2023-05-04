@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search box", "Search box.csproj", "{342E723D-F297-4A4E-9EA0-64A1FC93FD91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{342E723D-F297-4A4E-9EA0-64A1FC93FD91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{342E723D-F297-4A4E-9EA0-64A1FC93FD91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{342E723D-F297-4A4E-9EA0-64A1FC93FD91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{342E723D-F297-4A4E-9EA0-64A1FC93FD91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34AAD853-89D7-42D5-9E2C-BAAFBD53E146}
+	EndGlobalSection
+EndGlobal
